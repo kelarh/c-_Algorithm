@@ -1,0 +1,33 @@
+# 忽略编译输出文件
+bin/
+obj/
+
+# 忽略Visual Studio的用户设置文件
+.vs/
+
+# 忽略自动生成的资源文件
+Resources/
+
+# 忽略调试日志和缓存文件
+*.log
+*.cache
+
+# 忽略生成的可执行文件
+*.exe
+*.pdb
+
+# 忽略Visual Studio的临时文件
+*.user
+*.suo
+*.cache
+*.sln.docstates
+
+# 忽略一些编辑器生成的文件
+thumbs.db
+.DS_Store
+
+# 忽略NuGet包目录
+packages/
+
+# 如果使用Visual Studio Code编辑器，忽略.vscode目录
+.vscode/
