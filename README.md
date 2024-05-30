@@ -18,8 +18,8 @@ dotnet run # 运行
 - [Bresenham算法](Bresenham_Circle_Drawing/Program.cs)
 - [扫描线填充算法](Scanlines/Program.cs)
 - [Cohen-Sutherland算法](Conhen-Sutherlande/Program.cs)
-- [中点裁剪算法](Midpoint_Clipping/Program.cs)
+- [中点裁剪算法](Midpoint_clipping/Program.cs)
 - [Barsky算法](Barsky/Program.cs)
 - [Sutherland_Hodgman算法](Sutherland_Hodgman/Program.cs)
-
-
+- [平移算法](Pan/Program.cs)
+- [旋转算法](Rotation/Program.cs)
